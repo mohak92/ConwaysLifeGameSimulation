@@ -7,6 +7,9 @@ Cellular Automation
 * For Conway's game we have 2 states: Dead or Alive.
 * The algorithm will generate newer generations.
 
+## Screenshot
+![](screenshot/conways.gif)
+
 ## Algorithm
 * On every Iteration the neighbors of the cell determine the next state of given cell.
 * Use Moore neighborhood to determine neighbors.
